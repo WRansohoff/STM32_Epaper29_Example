@@ -2,7 +2,7 @@
 
 This is a minimal project to demonstrate how to use the STM32's SPI peripheral to drive a 2.9" epaper display from Waveshare.
 
-# Uploading and Debugging
+# Building and Flashing
 
 A Makefile is provided, and I've tested the program with 'Nucleo-32' boards for STM32L031K6 and STM32F042K6 chips. To upload the resulting program, you can use your choice of uploader/debugger. I use GDB and Texane's "stlink" project:
 
